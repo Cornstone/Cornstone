@@ -7,3 +7,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/connie-luk-8b239b241" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="connie-luk-8b239b241" height="30" width="40" /></a>
 </p>
+
